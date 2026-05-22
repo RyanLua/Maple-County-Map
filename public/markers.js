@@ -2003,7 +2003,7 @@ var buildings = {
                 "coordinates": [551.81, 738.526],
             },
             "properties": {
-                "name": "Jewlery Store",
+                "name": "Wyatt & Co. Jewelers",
                 "postalCode": "5014",
             },
         },
