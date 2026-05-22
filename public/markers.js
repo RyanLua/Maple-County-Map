@@ -1163,6 +1163,18 @@ var atms = {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [551.81, 738.526],
+            },
+            "properties": {
+                "name": "Wyatt & Co. Jewelers",
+                "postalCode": "5014",
+                "quantity": 2,
+            },
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [465.375, 307.875],
             },
             "properties": {
